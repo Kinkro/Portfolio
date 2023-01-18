@@ -40,15 +40,14 @@ export const REPO_DATA = [
     link: `https://Kinkro.github.io/interactive-rating-component`,
   },
   {
-    id: 5,
-    title: "Rating component",
-    image: require("../../assets/interactiveRatingComp.jpg"),
-    description:
-      "Interactive rating component  made with React.js, CSS modules.",
-    link: `https://Kinkro.github.io/interactive-rating-component`,
+    id: 6,
+    title: "Tip calculator",
+    image: require("../../assets/tipCalculator.jpg"),
+    description: "Responsive tip calculator made with React.js, CSS modules.",
+    link: `https://Kinkro.github.io/tip-calculator-app`,
   },
   {
-    id: 5,
+    id: 7,
     title: "Rating component",
     image: require("../../assets/interactiveRatingComp.jpg"),
     description:
