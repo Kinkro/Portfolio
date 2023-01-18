@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.d655bc54.css",
-    "main.js": "/Portfolio/static/js/main.317e1460.js",
+    "main.js": "/Portfolio/static/js/main.6b5dceea.js",
     "static/media/about.jpg": "/Portfolio/static/media/about.c329483555e8416a1f05.jpg",
     "static/media/profile .jpg": "/Portfolio/static/media/profile .2f98bb0bbb06c429dac4.jpg",
     "static/media/clockApp.jpg": "/Portfolio/static/media/clockApp.d2d29843251a56ee8da5.jpg",
     "static/media/AK_CV.pdf": "/Portfolio/static/media/AK_CV.d8178ba1bc862e5ff1d0.pdf",
     "static/media/interactiveCard.jpg": "/Portfolio/static/media/interactiveCard.c22dafd52704bc7b0092.jpg",
     "static/media/sTodoApp.jpg": "/Portfolio/static/media/sTodoApp.5486c62802d6d8d372ad.jpg",
+    "static/media/tipCalculator.jpg": "/Portfolio/static/media/tipCalculator.99ab3ea314f9a95b83f2.jpg",
     "static/media/ghUserSearch.jpg": "/Portfolio/static/media/ghUserSearch.3bde2658fd8815a8d55c.jpg",
     "static/media/interactiveRatingComp.jpg": "/Portfolio/static/media/interactiveRatingComp.456ed8ff9cebba10b8f5.jpg",
     "index.html": "/Portfolio/index.html",
     "main.d655bc54.css.map": "/Portfolio/static/css/main.d655bc54.css.map",
-    "main.317e1460.js.map": "/Portfolio/static/js/main.317e1460.js.map"
+    "main.6b5dceea.js.map": "/Portfolio/static/js/main.6b5dceea.js.map"
   },
   "entrypoints": [
     "static/css/main.d655bc54.css",
-    "static/js/main.317e1460.js"
+    "static/js/main.6b5dceea.js"
   ]
 }
