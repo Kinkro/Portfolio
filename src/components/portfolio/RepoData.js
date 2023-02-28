@@ -1,5 +1,21 @@
 export const REPO_DATA = [
   {
+    id: 8,
+    title: "IP address tracker",
+    image: require("../../assets/ipTrackerjpg.jpg"),
+    description:
+      "IP address tracker made with React.js,React Leaflet, styled-components.",
+    link: `https://Kinkro.github.io/ip-address-tracker`,
+  },
+  {
+    id: 9,
+    title: "Planet facts",
+    image: require("../../assets/planetfacts.jpg"),
+    description:
+      "Planet facts made with React.js, React router, styled-components.",
+    link: `https://Kinkro.github.io/planet-facts`,
+  },
+  {
     id: 1,
     title: "clock-App",
     image: require("../../assets/clockApp.jpg"),
@@ -33,11 +49,11 @@ export const REPO_DATA = [
   },
   {
     id: 5,
-    title: "Rating component",
-    image: require("../../assets/interactiveRatingComp.jpg"),
+    title: "Sign-up form",
+    image: require("../../assets/useForm.jpg"),
     description:
-      "Interactive rating component  made with React.js, CSS modules.",
-    link: `https://Kinkro.github.io/interactive-rating-component`,
+      "Sign-up form made with React.js, React Hook Form, styled-components.",
+    link: `https://Kinkro.github.io/signup-form`,
   },
   {
     id: 6,
@@ -54,22 +70,7 @@ export const REPO_DATA = [
       "Interactive rating component  made with React.js, CSS modules.",
     link: `https://Kinkro.github.io/interactive-rating-component`,
   },
-  // {
-  //   id: 5,
-  //   title: "Rating component",
-  //   image: require("../../assets/interactiveRatingComp.jpg"),
-  //   description:
-  //     "Interactive rating component  made with React.js, CSS modules.",
-  //   link: `https://Kinkro.github.io/interactive-rating-component`,
-  // },
-  // {
-  //   id: 5,
-  //   title: "Rating component",
-  //   image: require("../../assets/interactiveRatingComp.jpg"),
-  //   description:
-  //     "Interactive rating component  made with React.js, CSS modules.",
-  //   link: `https://Kinkro.github.io/interactive-rating-component`,
-  // },
+
   // {
   //   id: 5,
   //   title: "Rating component",
